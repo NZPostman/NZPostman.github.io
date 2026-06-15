@@ -1,3 +1,22 @@
-﻿body {
-    background-color: white;
+﻿*{
+    font-family:'Courier New'
+}
+
+.hero-image {
+    background-image: url("./images/IMG_20260322_213203.jpg");
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-text{
+    color: black;
+    position: absolute;
+    top: 200px;
+    text-align:center;
+    width: 100%;
+    font-size: 5rem;
+}
+.two-column{ 
+    height: 200px;
 }
