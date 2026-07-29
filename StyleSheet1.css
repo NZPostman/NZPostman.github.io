@@ -7,18 +7,35 @@ img{
 
 .hero-image {
     background-image: url("./Images/IMG_20260322_213203.jpg");
-    height: 1000px;
+    height: 800px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .hero-text{
     color: black;
-    position: absolute;
-    top: 200px;
+    position: fixed;
+    top: 100px;
     text-align:center;
     width: 100%;
     font-size: 5rem;
+}
+.hero-goal{
+    color: white;
+    position: fixed;
+    top: 350px;
+    margin-left: 350px;
+    width: 100%;
+    font-size: 3rem;
+}
+.hero-lesson{
+    color: white;
+    position: fixed;
+    top: 350px;
+    margin-right: 350px;
+    margin-left: auto;
+    width: 100%;
+    font-size: 3rem;
 }
 .two-column{ 
     display: grid;
