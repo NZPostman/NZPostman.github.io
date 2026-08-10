@@ -24,18 +24,19 @@ img{
     color: white;
     position: fixed;
     top: 350px;
-    margin-left: 350px;
-    width: 100%;
+    width: 25%;
     font-size: 3rem;
+    text-align:left;
+    margin-left: 50%
 }
 .hero-lesson{
     color: white;
     position: fixed;
     top: 350px;
-    margin-right: 350px;
-    margin-left: auto;
-    width: 100%;
+    width: 25%;
     font-size: 3rem;
+    text-align: right;
+    margin-right: 50%;
 }
 .two-column{ 
     display: grid;
