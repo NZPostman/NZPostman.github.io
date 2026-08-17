@@ -47,3 +47,8 @@ img{
     margin-top: 40px;
     font-size: 1.25em;
 }
+
+nav {
+    position: absolute;
+    left: 12%;
+}
