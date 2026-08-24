@@ -1,0 +1,22 @@
+*{
+    font-family:'Courier New'
+}
+img{
+    width: 100%;
+}
+
+.hero-image {
+    background-image: url("./Images/IMG20250301143314.jpg");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-text{
+    color: black;
+    position: fixed;
+    top: 100px;
+    text-align:center;
+    width: 100%;
+    font-size: 5rem;
+}
