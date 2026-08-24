@@ -13,10 +13,19 @@ img{
     background-size: cover;
 }
 .hero-text{
-    color: black;
+    color: white;
     position: fixed;
     top: 100px;
     text-align:center;
     width: 100%;
     font-size: 5rem;
+}
+.body-paragraph{
+    color: white;
+    font-size: 3rem;
+    position: fixed;
+    text-align: center;
+    margin-top: 20px;
+    top: 400px;
+    width: 100%;
 }
