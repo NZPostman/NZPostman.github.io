@@ -47,27 +47,24 @@ img{
     margin-top: 40px;
     font-size: 1.25em;
 }
-
 nav {
     position: absolute;
     left: 12%;
 }
 .hero-goal, .hero-lesson {
-    text-decoration: none; /* Removes the default link underline */
-    color: white; /* Sets the text color to white */
+    text-decoration: none; 
+    color: white; 
   display: inline-block;
   padding: 10px 20px;
   background-color: #ff5100;
   color: #ffffff;
-  text-decoration: none; /* Removes the default link underline */
+  text-decoration: none; 
   border-radius: 50px;
   font-family: sans-serif;
   font-weight: bold;
   text-align: center;
   transition: background-color 0.2s ease;
 }
-
-/* Hover effect */
 .hero-goal:hover, .hero-lesson:hover {
   background-color: #0056b3;
 }

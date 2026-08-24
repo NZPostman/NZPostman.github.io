@@ -22,10 +22,11 @@ img{
 }
 .body-paragraph{
     color: white;
-    font-size: 3rem;
+    font-size: 2rem;
     position: fixed;
     text-align: center;
     margin-top: 20px;
+    margin: auto;
     top: 400px;
-    width: 100%;
+    width: 90%;
 }
